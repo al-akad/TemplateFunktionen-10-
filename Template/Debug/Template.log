@@ -1,0 +1,4 @@
+﻿  Tempaltecpp.cpp
+C:\Users\Alfa\source\repos\Template\Template\Tempaltecpp.cpp(110): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Alfa\source\repos\Template\Template\Tempaltecpp.cpp(115): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  Template.vcxproj -> C:\Users\Alfa\source\repos\Template\Debug\Template.exe
